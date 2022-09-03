@@ -1,0 +1,13 @@
+D:\murat\netcore\Murat\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+D:\murat\netcore\Murat\Entities\bin\Debug\netstandard2.1\Entities.dll
+D:\murat\netcore\Murat\Entities\bin\Debug\netstandard2.1\Entities.pdb
+D:\murat\netcore\Murat\Entities\bin\Debug\netstandard2.1\Core.dll
+D:\murat\netcore\Murat\Entities\bin\Debug\netstandard2.1\Core.pdb
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.dll
+D:\murat\netcore\Murat\Entities\obj\Debug\netstandard2.1\Entities.pdb

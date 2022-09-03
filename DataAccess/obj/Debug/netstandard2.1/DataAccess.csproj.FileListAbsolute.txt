@@ -1,0 +1,15 @@
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\Core.dll
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+D:\murat\netcore\Murat\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+D:\murat\netcore\Murat\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

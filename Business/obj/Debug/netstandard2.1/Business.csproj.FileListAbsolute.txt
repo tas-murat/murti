@@ -1,0 +1,17 @@
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Business.deps.json
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Business.dll
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Business.pdb
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Core.dll
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\DataAccess.dll
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Entities.dll
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Entities.pdb
+D:\murat\netcore\Murat\Business\bin\Debug\netstandard2.1\Core.pdb
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.dll
+D:\murat\netcore\Murat\Business\obj\Debug\netstandard2.1\Business.pdb

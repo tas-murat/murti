@@ -1,0 +1,10 @@
+D:\murat\netcore\Murat\Core\bin\Debug\netstandard2.1\Core.deps.json
+D:\murat\netcore\Murat\Core\bin\Debug\netstandard2.1\Core.dll
+D:\murat\netcore\Murat\Core\bin\Debug\netstandard2.1\Core.pdb
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.dll
+D:\murat\netcore\Murat\Core\obj\Debug\netstandard2.1\Core.pdb
